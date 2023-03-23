@@ -38,6 +38,7 @@ h5{
 }
 .Description{
     color: blue;
+    margin: 20px;
 }
 .functions{
     text-align: center;
@@ -46,6 +47,10 @@ h5{
     size: 100px;
     font-weight: bold;
     fill: blue;
+    border: 1px solid blue;
+    padding: 3px;
+    background: yellow;
+    
 }
 #btn{
     fill: blue;
