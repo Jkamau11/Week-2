@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+}
+div {
+    color: blue;
+}
+.heading {
+  background-color: aqua;  
+  text-align: center;
+  font-weight: bold;
+}
+.Description{
+    text-align: center;
+}
+
+.Males{
+  margin:2px;
+  padding: 0px;
+  text-indent: 550px;
+  border: 5pt;
+}
+.Females{
+    margin: 5px;
+    padding: 0px;
+    text-indent: 550px;
+}
+h5{
+    text-align: center;
+    color: red;
+}
+.f{
+    color: red;
+    margin: 1px;
+}
+.m{
+    color: red;
+    margin: 1px;
+}
+.Description{
+    color: blue;
+}
+.functions{
+    text-align: center;
+    margin: 20px;
+    color: black;
+    size: 100px;
+    font-weight: bold;
+    fill: blue;
+}
+#btn{
+    fill: blue;
+}
